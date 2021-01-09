@@ -6,7 +6,7 @@ namespace test_coding
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hajox!");
+            Console.WriteLine("good bye!");
         }
     }
 }
